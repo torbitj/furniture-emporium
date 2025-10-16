@@ -47,3 +47,13 @@ button {
   font-size: 12pt;
   color: #6E6E6E;
 }
+
+button:hover {
+  cursor: pointer;
+  background-color: green;
+}
+
+button:active {
+  cursor: pointer;
+  box-shadow: none;
+}
