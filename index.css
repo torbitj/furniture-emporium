@@ -52,3 +52,8 @@ button:hover {
   cursor: pointer;
   background-color: green;
 }
+
+button:active {
+  cursor: pointer;
+  box-shadow: none;
+}
